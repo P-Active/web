@@ -1,13 +1,9 @@
-h1 {
+text {
 	font-family: 'Quicksand', sans-serif; 
-	color: white;
-	text-align: center;
-	font-size: 40px
+	color: white 
 }
 
 body {
-	margin: 0;
-	padding: 0;
 	background-color: #EF3958
 }
 
@@ -34,13 +30,4 @@ button {
     margin: 4px 2px;
     cursor: pointer;
     width: 75%
-
-}
-
-.astext {
-    background:none;
-    border:none;
-    padding:0;
-    cursor:pointer;
-
 }
